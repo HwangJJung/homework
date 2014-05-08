@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Drawing;
 
 namespace GUIRectangle
 {
@@ -65,7 +66,7 @@ namespace GUIRectangle
      {
         private string Color;
 
-        public Square(int Left, int Top, int Width : base(Left, Top, Left + Width, Top + Width)
+        public Square(int Left, int Top, int Width ) : base(Left, Top, Left + Width, Top + Width)
         {
         }
 
