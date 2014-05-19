@@ -1,0 +1,9 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\bin\Debug\Week10Lab_1.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\bin\Debug\Week10Lab_1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\bin\Debug\Week10Lab_1.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.Form1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10Lab_1\obj\Debug\Week10Lab_1.pdb

@@ -1,0 +1,11 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\bin\Debug\Week10_Lab1.exe.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\bin\Debug\Week10_Lab1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\bin\Debug\Week10_Lab1.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.Form1.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.Properties.Resources.resources
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.csproj.GenerateResource.Cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.exe
+\\psf\Home\Documents\Visual Studio 2013\Projects\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.pdb
+\\psf\Home\git-project\homework\Week10\Week10Lab_1\Week10_Lab1\bin\Debug\Week10_Lab1.exe.config
+\\psf\Home\git-project\homework\Week10\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.exe
+\\psf\Home\git-project\homework\Week10\Week10Lab_1\Week10_Lab1\obj\Debug\Week10_Lab1.pdb
