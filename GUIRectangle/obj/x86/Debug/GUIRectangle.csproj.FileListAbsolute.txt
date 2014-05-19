@@ -1,0 +1,3 @@
+D:\Work\Project\C#\Week10\GUIRectangle\GUIRectangle\obj\x86\Debug\GUIRectangle.Form1.resources
+D:\Work\Project\C#\Week10\GUIRectangle\GUIRectangle\obj\x86\Debug\GUIRectangle.Properties.Resources.resources
+D:\Work\Project\C#\Week10\GUIRectangle\GUIRectangle\obj\x86\Debug\GUIRectangle.csproj.GenerateResource.Cache
