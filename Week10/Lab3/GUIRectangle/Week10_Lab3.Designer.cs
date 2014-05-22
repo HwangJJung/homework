@@ -28,33 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
             this.SuspendLayout();
-            // 
-            // panel1
-            // 
-            this.panel1.Location = new System.Drawing.Point(0, 314);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(285, 35);
-            this.panel1.TabIndex = 0;
-            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
-            this.panel1.DoubleClick += new System.EventHandler(this.Form1_DoubleClick);
             // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(284, 340);
-            this.Controls.Add(this.panel1);
             this.Name = "Form1";
             this.Text = "Lab3";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.Form1_Paint);
+            this.DoubleClick += new System.EventHandler(this.Form1_DoubleClick);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Panel panel1;
     }
 }
 

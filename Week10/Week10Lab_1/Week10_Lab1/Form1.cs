@@ -54,13 +54,12 @@ namespace Week10_Lab1
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (textBox1.Text == "+")
-            { }
-            else
+            if (textBox1.Text != "+" && textBox1.Text.Length != 0) 
             {
                 leftNumber = int.Parse(textBox1.Text);
                 textBox1.Text = button5.Text;
             }
+         
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
