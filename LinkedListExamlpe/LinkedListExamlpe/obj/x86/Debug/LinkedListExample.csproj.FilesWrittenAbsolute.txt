@@ -1,0 +1,5 @@
+/Users/nhn/Projects/LinkedListExamlpe/LinkedListExamlpe/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/nhn/Projects/LinkedListExamlpe/LinkedListExamlpe/bin/Debug/LinkedListExamlpe.exe.mdb
+/Users/nhn/Projects/LinkedListExamlpe/LinkedListExamlpe/bin/Debug/LinkedListExamlpe.exe
+/Users/nhn/Projects/LinkedListExamlpe/LinkedListExamlpe/obj/x86/Debug/LinkedListExamlpe.exe
+/Users/nhn/Projects/LinkedListExamlpe/LinkedListExamlpe/obj/x86/Debug/LinkedListExamlpe.exe.mdb
